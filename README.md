@@ -10,7 +10,7 @@
 
 ## Requirements
 - Java 8 or later.
-- iText 7 library for PDF generation.
+- iText library for PDF generation.
 
 ## Getting Started
 
